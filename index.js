@@ -1,95 +1,95 @@
 const perguntas = [
-    {
-      pergunta: "Qual é a função em JavaScript que permite declarar uma variável?",
-      respostas: [
-        "define",
-        "var",
-        "let"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a maneira correta de escrever um comentário de uma linha em JavaScript?",
-      respostas: [
-        "// este é um comentário",
-        "/* este é um comentário */",
-        "-- este é um comentário"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o método em JavaScript que converte uma string em minúsculas?",
-      respostas: [
-        "toLowerCase()",
-        "lowerCase()",
-        "convertLowerCase()"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Como se refere a uma função dentro de um objeto em JavaScript?",
-      respostas: [
-        "método",
-        "função interna",
-        "objeto de função"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o operador de igualdade estrita em JavaScript?",
-      respostas: [
-        "==",
-        "===",
-        "="
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a palavra-chave usada para declarar uma função em JavaScript?",
-      respostas: [
-        "function",
-        "func",
-        "declare"
-      ],
-      "correta": 0
-    },
-    {
-      pergunta: "Qual é o resultado da expressão '5' + 2 em JavaScript?",
-      respostas: [
-        "7",
-        "52a",
-        "52"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Como você verifica o tipo de uma variável em JavaScript?",
-      respostas: [
-        "typeof",
-        "type",
-        "varType"
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "O que o método push() faz em um array em JavaScript?",
-      respostas: [
-        "remove um elemento do final do array",
-        "adiciona um elemento ao final do array",
-        "adiciona um elemento ao início do array"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é o operador de negação lógica em JavaScript?",
-      respostas: [
-        "!",
-        "not",
-        "not()"
-      ],
-      correta: 0
-    }
-  ];
+  {
+    "pergunta": "Quem é considerado o pai da antropologia?",
+    "respostas": [
+      "Charles Darwin",
+      "Franz Boas",
+      "Edward Burnett Tylor"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual desses antropólogos é conhecido por desenvolver a teoria da cultura?",
+    "respostas": [
+      "Bronisław Malinowski",
+      "Claude Lévi-Strauss",
+      "Edward Burnett Tylor"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual desses antropólogos é famoso por seu trabalho com culturas nativas americanas?",
+    "respostas": [
+      "Margaret Mead",
+      "Bronisław Malinowski",
+      "Franz Boas"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem é conhecido por introduzir o conceito de etnocentrismo?",
+    "respostas": [
+      "Bronisław Malinowski",
+      "Franz Boas",
+      "Ruth Benedict"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual desses antropólogos é considerado o fundador da antropologia cultural britânica?",
+    "respostas": [
+      "Ruth Benedict",
+      "Margaret Mead",
+      "Bronisław Malinowski"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual foi o período em que a antropologia começou a ser reconhecida como disciplina acadêmica?",
+    "respostas": [
+      "Século XVIII",
+      "Século XIX",
+      "Século XX"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual desses antropólogos é conhecido por seu trabalho de campo com os Trobriandeses?",
+    "respostas": [
+      "Franz Boas",
+      "Bronisław Malinowski",
+      "Ruth Benedict"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem é famoso por introduzir o conceito de relativismo cultural?",
+    "respostas": [
+      "Franz Boas",
+      "Bronisław Malinowski",
+      "Ruth Benedict"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual desses antropólogos é conhecido por seu estudo da cultura do povo Nuer?",
+    "respostas": [
+      "Margaret Mead",
+      "Edward Burnett Tylor",
+      "Evans-Pritchard"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual desses antropólogos é conhecido por desenvolver a teoria estruturalista?",
+    "respostas": [
+      "Claude Lévi-Strauss",
+      "Bronisław Malinowski",
+      "Margaret Mead"
+    ],
+    "correta": 0
+  }
+]
     
     const quiz = document.querySelector('#quiz')
     const template = document.querySelector('template')
