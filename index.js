@@ -1,93 +1,93 @@
 const perguntas = [
   {
-    "pergunta": "Quem é considerado o pai da antropologia?",
+    "pergunta": "Qual é o conceito central na filosofia de Derrida?",
     "respostas": [
-      "Charles Darwin",
-      "Franz Boas",
-      "Edward Burnett Tylor"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual desses antropólogos é conhecido por desenvolver a teoria da cultura?",
-    "respostas": [
-      "Bronisław Malinowski",
-      "Claude Lévi-Strauss",
-      "Edward Burnett Tylor"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual desses antropólogos é famoso por seu trabalho com culturas nativas americanas?",
-    "respostas": [
-      "Margaret Mead",
-      "Bronisław Malinowski",
-      "Franz Boas"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Quem é conhecido por introduzir o conceito de etnocentrismo?",
-    "respostas": [
-      "Bronisław Malinowski",
-      "Franz Boas",
-      "Ruth Benedict"
+      "Desconstrução",
+      "Essência",
+      "Totalidade"
     ],
     "correta": 0
   },
   {
-    "pergunta": "Qual desses antropólogos é considerado o fundador da antropologia cultural britânica?",
+    "pergunta": "Em seu trabalho 'Glas', Derrida discute a teoria de qual outro filósofo?",
     "respostas": [
-      "Ruth Benedict",
-      "Margaret Mead",
-      "Bronisław Malinowski"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual foi o período em que a antropologia começou a ser reconhecida como disciplina acadêmica?",
-    "respostas": [
-      "Século XVIII",
-      "Século XIX",
-      "Século XX"
+      "Immanuel Kant",
+      "Georg Wilhelm Friedrich Hegel",
+      "Martin Heidegger"
     ],
     "correta": 1
   },
   {
-    "pergunta": "Qual desses antropólogos é conhecido por seu trabalho de campo com os Trobriandeses?",
+    "pergunta": "Qual é o termo que Derrida usa para descrever a 'escrita' que está além da linguagem tradicional?",
     "respostas": [
-      "Franz Boas",
-      "Bronisław Malinowski",
-      "Ruth Benedict"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quem é famoso por introduzir o conceito de relativismo cultural?",
-    "respostas": [
-      "Franz Boas",
-      "Bronisław Malinowski",
-      "Ruth Benedict"
+      "Arque-escrita",
+      "Trans-escrita",
+      "Meta-escrita"
     ],
     "correta": 0
   },
   {
-    "pergunta": "Qual desses antropólogos é conhecido por seu estudo da cultura do povo Nuer?",
+    "pergunta": "Qual é o nome da abordagem de Derrida à interpretação textual, que enfatiza múltiplas camadas de significado e ambiguidade?",
     "respostas": [
-      "Margaret Mead",
-      "Edward Burnett Tylor",
-      "Evans-Pritchard"
+      "Interpretação múltipla",
+      "Interpretação hermenêutica",
+      "Interpretação deconstrutiva"
     ],
     "correta": 2
   },
   {
-    "pergunta": "Qual desses antropólogos é conhecido por desenvolver a teoria estruturalista?",
+    "pergunta": "Quem foi o filósofo que debateu com Derrida sobre a 'metáfora viva'?",
     "respostas": [
-      "Claude Lévi-Strauss",
-      "Bronisław Malinowski",
-      "Margaret Mead"
+      "Michel Foucault",
+      "Jean-François Lyotard",
+      "Paul Ricoeur"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o título do seminário de Derrida sobre a morte de Deus?",
+    "respostas": [
+      "A Ficção do Sagrado",
+      "A Língua Inacessível",
+      "O Fim da Teologia"
     ],
     "correta": 0
+  },
+  {
+    "pergunta": "Qual é o termo que Derrida usa para descrever o ato de revelar as contradições dentro de uma filosofia ou texto?",
+    "respostas": [
+      "Desconstrução",
+      "Reificação",
+      "Desvendamento"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual é o conceito-chave que Derrida usa para criticar a ideia de uma linguagem transparente e objetiva?",
+    "respostas": [
+      "Logocentrismo",
+      "Essencialismo",
+      "Referencialismo"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual é o nome do método de análise textual desenvolvido por Derrida que se concentra na desconstrução dos pressupostos subjacentes?",
+    "respostas": [
+      "Metodologia deconstrutiva",
+      "Teoria discursiva",
+      "Análise semiótica"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "O que Derrida criticou em sua famosa obra 'Positions'?",
+    "respostas": [
+      "A alienação social",
+      "A metafísica da presença",
+      "A ideia de autoria"
+    ],
+    "correta": 1
   }
 ]
     
