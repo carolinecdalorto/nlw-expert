@@ -12,7 +12,7 @@ const perguntas = [
     "pergunta": "Em seu trabalho 'Glas', Derrida discute a teoria de qual outro filósofo?",
     "respostas": [
       "Immanuel Kant",
-      "Georg Wilhelm Friedrich Hegel",
+      "Georg Friedrich Hegel",
       "Martin Heidegger"
     ],
     "correta": 1
