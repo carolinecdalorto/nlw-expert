@@ -49,7 +49,7 @@ const perguntas = [
       "respostas": [
         "Maximizar os lucros corporativos a curto prazo.",
         "Minimizar o envolvimento da empresa em questões ambientais e sociais.",
-        "Promover práticas empresariais mais éticas e sustentáveis.",
+        "Promover práticas empresariais mais éticas e sustentáveis."
       ],
       "correta": 2
     },
@@ -67,7 +67,7 @@ const perguntas = [
       "respostas": [
         "Não é importante, pois a reflexividade pode comprometer a objetividade da pesquisa.",
         "Permite que os pesquisadores reconheçam e avaliem seu próprio papel e influência no processo de pesquisa.",
-        "Desencoraja os antropólogos de considerar seu próprio posicionamento cultural e social.",
+        "Desencoraja os antropólogos de considerar seu próprio posicionamento cultural e social."
       ],
       "correta": 1
     },
@@ -76,7 +76,7 @@ const perguntas = [
       "respostas": [
         "Impor mudanças de cima para baixo para garantir conformidade com as diretrizes corporativas.",
         "Facilitar o diálogo e a negociação entre diferentes partes interessadas para promover a aceitação e a adaptação às mudanças.",
-        "Ignorar as resistências internas para acelerar o processo de mudança.",
+        "Ignorar as resistências internas para acelerar o processo de mudança."
       ],
       "correta": 1
     },
